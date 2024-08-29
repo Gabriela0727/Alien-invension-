@@ -1,2 +1,3 @@
 # Alien-invension-
-This was my first project 
+This was my first coding project ever using python.
+
